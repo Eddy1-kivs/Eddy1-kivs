@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Edwin Kivuva
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning data structures
-- 💞️ I’m looking to collaborate on facebook.
+- 👀 I’m a software developer
+- 💞️ I’m looking to collaborate on apple
 - 📫 How to reach me kivseddy@gmail.com
 
 <!---
