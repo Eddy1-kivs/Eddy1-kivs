@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Edwin Kivuva
 - 👀 I’m a software developer
-- 💞️ I’m looking to collaborate on apple
 - 📫 How to reach me kivseddy@gmail.com
 
 <!---
