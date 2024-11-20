@@ -7,7 +7,7 @@ I'm a passionate Full-Stack Developer with expertise in building dynamic, scalab
     Backend: Node.js, Python, Django, Flask.
     Design Tools: Figma.
     Databases: MySQL, PostgreSQL, MongoDB, SQL.
-    Cloud & DevOps: AWS.
+    AWS, Azure, cPanel, Bluehost.
 
 🌟 What Drives Me:
 
