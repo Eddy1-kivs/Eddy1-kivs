@@ -3,7 +3,7 @@ Hi there! 👋
 I'm a passionate Full-Stack Developer with expertise in building dynamic, scalable, and user-centric applications. I specialize in both frontend and backend technologies, and I'm driven by the desire to create seamless digital experiences.
 🛠️ Technologies I Work With:
 
-    **Frontend**:  
+**Frontend**:  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)   ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)  ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?logo=gsap&logoColor=white)  ![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white)  ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0078D4?logo=framer&logoColor=white)
 
 **Backend**:  
